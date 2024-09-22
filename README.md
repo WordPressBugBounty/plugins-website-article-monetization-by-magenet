@@ -1,0 +1,1 @@
+# plugins-website-article-monetization-by-magenet
