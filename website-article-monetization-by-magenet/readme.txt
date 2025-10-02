@@ -2,7 +2,7 @@
 Contributors: MageNet
 Tags: website monetization, advertising, contextual ads, earn money online, contextual advertising, text ads, sell ads
 Requires at least: 4.9 or higher
-Tested up to: 6.4.3
+Tested up to: 6.8
 Requires PHP: 5.2.4
 Stable tag: trunk
 License: GPLv2 or later
